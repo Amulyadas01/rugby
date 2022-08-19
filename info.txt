@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 third line new
+=======
+test edit
+>>>>>>> parent of 7963b68... reverting
+i am commit
